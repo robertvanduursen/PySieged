@@ -1,2 +1,5 @@
 # PySieged
-An unofficial Python module for the video game Besieged
+An unofficial Python toolkit for the video game Besieged
+
+# Disclaimer
+The game Besieged is owner by Spiderling Studios. Go and play the game!
