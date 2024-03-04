@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<Machine><!--Besiege machine save file--><!--The machine's position and rotation.--><Global><Position x="0" y="0" z="0" /><Rotation w="0" x="0" y="0" z="0" /></Global><!--The machine's additional data or modded data.--><Data /><!--The machine's blocks.--><Blocks><Block guid="0" id="0"><Transform><Position x="0" y="0" z="0" /><Rotation w="0" x="0" y="0" z="0" /><Scale x="0" y="0" z="0" /></Transform><Settings><Skin id="default" name="default" /></Settings><Data /></Block></Blocks></Machine>
